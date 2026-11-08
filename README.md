@@ -23,7 +23,7 @@ A location-based community app that connects people through shared experiences a
 - Developed as a team project at **Engineer Guild Hackathon 2026**.
 - Contributed to frontend, backend, and UI design.
 
-**[GitHub Repository](https://github.com/engineer-guild-hackathon-2026-05/team-09)** · **[Live Demo](https://team-09-web.pages.dev)**
+**[GitHub Repository](https://github.com/engineer-guild-hackathon-2026-05/team-09)**
 
 ## ❤️ Open Source Projects I Support
 
