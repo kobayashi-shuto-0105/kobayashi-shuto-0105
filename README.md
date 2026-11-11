@@ -7,7 +7,9 @@ I'm a first-year master's student at **Kyoto Sangyo University**, Japan.
 ### 🛒 E-commerce Website
 A personal e-commerce web application built with Node.js, Express, MongoDB, and Stripe.
 
-**[Live Website](https://flowaration.onrender.com)** · **[Demo Video](./assets/Flowaration_Demo_1080p.mp4)**
+**[Live Website](https://flowaration.onrender.com)** · **[Download 1080p MP4](./assets/Flowaration_Demo_1080p.mp4)**
+
+![Flowaration storefront demo](./assets/Flowaration_Demo.webp)
 
 ### 🎙️ Meetily Live Viewer
 An extension of the open-source AI meeting assistant [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes), enabling real-time transcription viewing and editing from external browsers.
